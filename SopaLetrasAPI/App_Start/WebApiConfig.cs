@@ -11,8 +11,8 @@ namespace SopaLetrasAPI
         public static void Register(HttpConfiguration config)
         {
             // Configuración y servicios de Web API
-            //var cors = new EnableCorsAttribute("*", "*", "*");
-            //config.EnableCors(cors);
+            var cors = new EnableCorsAttribute("*", "*", "*");
+            config.EnableCors(cors);
             // Rutas de Web API
             config.MapHttpAttributeRoutes();
 

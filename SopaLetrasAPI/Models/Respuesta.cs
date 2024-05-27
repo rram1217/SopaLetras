@@ -5,9 +5,8 @@ using System.Web;
 
 namespace SopaLetrasAPI.Models
 {
-    public class Sopa
+    public class Respuesta
     {
-        public String[] info { get; set; }
-        public String nombre { get; set; }
+        public bool resultado { get; set; }
     }
 }

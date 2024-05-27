@@ -3,19 +3,39 @@
   "WorkspaceRootPath": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|e:\\codigofuente\\api\\sopaletrasapi\\sopaletrasapi\\controllers\\sopacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|solutionrelative:sopaletrasapi\\controllers\\sopacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|e:\\codigofuente\\api\\sopaletrasapi\\sopaletrasapi\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|solutionrelative:sopaletrasapi\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|e:\\codigofuente\\api\\sopaletrasapi\\sopaletrasapi\\models\\busquedapalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|solutionrelative:sopaletrasapi\\models\\busquedapalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|e:\\codigofuente\\api\\sopaletrasapi\\sopaletrasapi\\data\\reportedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|solutionrelative:sopaletrasapi\\data\\reportedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|e:\\codigofuente\\api\\sopaletrasapi\\sopaletrasapi\\models\\sopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|E:\\CodigoFuente\\API\\SopaLetrasAPI\\sopaletrasapi\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|solutionrelative:sopaletrasapi\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|E:\\CodigoFuente\\API\\SopaLetrasAPI\\sopaletrasapi\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|solutionrelative:sopaletrasapi\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|E:\\CodigoFuente\\API\\SopaLetrasAPI\\sopaletrasapi\\services\\busquedapalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|solutionrelative:sopaletrasapi\\services\\busquedapalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|E:\\CodigoFuente\\API\\SopaLetrasAPI\\sopaletrasapi\\data\\cuentadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|solutionrelative:sopaletrasapi\\data\\cuentadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|E:\\CodigoFuente\\API\\SopaLetrasAPI\\sopaletrasapi\\controllers\\contienenombrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|solutionrelative:sopaletrasapi\\controllers\\contienenombrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|E:\\CodigoFuente\\API\\SopaLetrasAPI\\sopaletrasapi\\models\\sopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|solutionrelative:sopaletrasapi\\models\\sopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|e:\\codigofuente\\api\\sopaletrasapi\\sopaletrasapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|E:\\CodigoFuente\\API\\SopaLetrasAPI\\sopaletrasapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9D82EC2-6869-4332-AF13-CEEE510F5F7D}|SopaLetrasAPI\\SopaLetrasAPI.csproj|solutionrelative:sopaletrasapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,54 +46,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BusquedaPalabra.cs",
-              "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Models\\BusquedaPalabra.cs",
-              "RelativeDocumentMoniker": "SopaLetrasAPI\\Models\\BusquedaPalabra.cs",
-              "ToolTip": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Models\\BusquedaPalabra.cs",
-              "RelativeToolTip": "SopaLetrasAPI\\Models\\BusquedaPalabra.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T03:42:09.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\App_Start\\WebApiConfig.cs",
-              "RelativeDocumentMoniker": "SopaLetrasAPI\\App_Start\\WebApiConfig.cs",
-              "ToolTip": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\App_Start\\WebApiConfig.cs",
-              "RelativeToolTip": "SopaLetrasAPI\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T17:32:37.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SopaController.cs",
-              "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Controllers\\SopaController.cs",
-              "RelativeDocumentMoniker": "SopaLetrasAPI\\Controllers\\SopaController.cs",
-              "ToolTip": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Controllers\\SopaController.cs",
-              "RelativeToolTip": "SopaLetrasAPI\\Controllers\\SopaController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAywCMAAAAAAAAA",
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "SopaLetrasAPI\\Data\\Conexion.cs",
+              "ToolTip": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Data\\Conexion.cs",
+              "RelativeToolTip": "SopaLetrasAPI\\Data\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T17:27:59.976Z",
+              "WhenOpened": "2024-05-23T23:24:25.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Models\\Cuenta.cs",
+              "RelativeDocumentMoniker": "SopaLetrasAPI\\Models\\Cuenta.cs",
+              "ToolTip": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Models\\Cuenta.cs",
+              "RelativeToolTip": "SopaLetrasAPI\\Models\\Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:02:02.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReporteData.cs",
+              "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Data\\ReporteData.cs",
+              "RelativeDocumentMoniker": "SopaLetrasAPI\\Data\\ReporteData.cs",
+              "ToolTip": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Data\\ReporteData.cs",
+              "RelativeToolTip": "SopaLetrasAPI\\Data\\ReporteData.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwB0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:22:54.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuentaData.cs",
+              "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Data\\CuentaData.cs",
+              "RelativeDocumentMoniker": "SopaLetrasAPI\\Data\\CuentaData.cs",
+              "ToolTip": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Data\\CuentaData.cs",
+              "RelativeToolTip": "SopaLetrasAPI\\Data\\CuentaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:07:32.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContieneNombreController.cs",
+              "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Controllers\\ContieneNombreController.cs",
+              "RelativeDocumentMoniker": "SopaLetrasAPI\\Controllers\\ContieneNombreController.cs",
+              "ToolTip": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Controllers\\ContieneNombreController.cs",
+              "RelativeToolTip": "SopaLetrasAPI\\Controllers\\ContieneNombreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:55:20.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "SopaLetrasAPI\\Controllers\\ReporteController.cs",
+              "ToolTip": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "SopaLetrasAPI\\Controllers\\ReporteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:57:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusquedaPalabra.cs",
+              "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Services\\BusquedaPalabra.cs",
+              "RelativeDocumentMoniker": "SopaLetrasAPI\\Services\\BusquedaPalabra.cs",
+              "ToolTip": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Services\\BusquedaPalabra.cs",
+              "RelativeToolTip": "SopaLetrasAPI\\Services\\BusquedaPalabra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:47:50.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "SopaLetrasAPI\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "SopaLetrasAPI\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:32:37.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Sopa.cs",
               "DocumentMoniker": "E:\\CodigoFuente\\API\\SopaLetrasAPI\\SopaLetrasAPI\\Models\\Sopa.cs",
               "RelativeDocumentMoniker": "SopaLetrasAPI\\Models\\Sopa.cs",
@@ -81,8 +156,7 @@
               "RelativeToolTip": "SopaLetrasAPI\\Models\\Sopa.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T16:58:21.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T16:58:21.628Z"
             }
           ]
         }
